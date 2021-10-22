@@ -1,0 +1,23 @@
+body{
+    background-color: #FFE699;
+    width: 300px;
+    height: auto;
+}
+
+.container{
+    height: 300px auto;
+    border: black solid;
+}
+
+#quote{
+    margin: 5px;
+    font-weight: 600;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    color: #C36A2D;
+}
+
+#author{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
